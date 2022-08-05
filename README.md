@@ -5,7 +5,7 @@ Im an **undergraduate Student of Informatic Engineering** from Muslim University
 For now im curently learning about android and machine learning
 
 If you want to know me you can reach me at :
-- [LinkedIn](https://www.linkedin.com/in/azhar-mohammad-r-a9ba521b9/)
+- [LinkedIn](https://www.linkedin.com/in/azhar-mohammad-r-a9ba521b9/) feel free to connect with me
 <!--
 **AMR0017/AMR0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
