@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is **Azhar Mohammad Rachmadani**.\
+Im an **undergraduate Student of Informatic Engineering** from Muslim University of Indonesia.\
+For now im curently learning about android and machine learning.\
+This is my [LinkedIn](https://www.linkedin.com/in/azhar-mohammad-r-a9ba521b9/).\
+If you want to know me you can reach me at :.\
+- [LinkedIn](https://www.linkedin.com/in/azhar-mohammad-r-a9ba521b9/)
 <!--
 **AMR0017/AMR0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
